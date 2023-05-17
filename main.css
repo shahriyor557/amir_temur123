@@ -1,0 +1,43 @@
+.a {
+    margin: 0 100px;
+}
+
+.b {
+    margin: 0 100px;
+}
+
+.c {
+    margin: 0 120px;
+}
+
+.d {
+    margin: 0 63px;
+}
+
+.f {
+    margin: 0 120px;
+}
+
+.e {
+    margin: 160px;
+}
+
+body {
+    background-color: #1f242d;
+    box-shadow: 3px 14px 25px #0ef;
+}
+
+.submit:hover {
+
+    background-color: aqua;
+    color: #1f242d;
+    box-shadow: 0px 0px 20px aqua;
+}
+
+.s {
+    color: white;
+}
+
+.e {
+    background-color: aliceblue;
+}
